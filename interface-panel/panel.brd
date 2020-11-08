@@ -230,7 +230,7 @@
 <hole x="23" y="41" drill="1"/>
 <hole x="23" y="43" drill="1"/>
 <hole x="23" y="45" drill="1"/>
-<text x="83" y="6" size="1.016" layer="28" rot="MR90">https://github.com/ivica3730k/AFSK-Ham-Radio-Interface</text>
+<text x="83" y="6" size="0.8128" layer="28" rot="MR90">https://github.com/ivica3730k/AFSK-Ham-Radio-Interface</text>
 <text x="85" y="6" size="1.27" layer="28" rot="MR90">https://ivica-matic.com</text>
 <text x="60.143009375" y="27.351990625" size="1.27" layer="125" ratio="10" rot="R90">C1</text>
 <text x="79.404996875" y="13.786003125" size="1.27" layer="125" ratio="10" rot="R270">C2</text>
@@ -329,7 +329,7 @@
 <hole x="23" y="90" drill="1"/>
 <hole x="23" y="92" drill="1"/>
 <hole x="23" y="94" drill="1"/>
-<text x="83" y="55" size="1.016" layer="28" rot="MR90">https://github.com/ivica3730k/AFSK-Ham-Radio-Interface</text>
+<text x="83" y="55" size="0.8128" layer="28" rot="MR90">https://github.com/ivica3730k/AFSK-Ham-Radio-Interface</text>
 <text x="85" y="55" size="1.27" layer="28" rot="MR90">https://ivica-matic.com</text>
 <text x="60.143009375" y="76.351990625" size="1.27" layer="125" ratio="10" rot="R90">C1</text>
 <text x="79.404996875" y="62.786003125" size="1.27" layer="125" ratio="10" rot="R270">C2</text>
